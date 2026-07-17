@@ -89,7 +89,7 @@ FLEX-Management-System/
 
 ```
 Username: admin
-Password: 1234
+Password: admin123
 ```
 
 ---
